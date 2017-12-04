@@ -7,7 +7,6 @@ figures/Untitled Diagram
 19ho60s8m4.html
 figures/Collaborative_Methodology_Chart2
 bc9orbej6j8.html
-77nb7rbhgao.html
 figures/Evans Pritchard
 mep3l3arve.html
 392jqqlj3t.html
