@@ -11,6 +11,8 @@ figures/Evans Pritchard
 mep3l3arve.html
 392jqqlj3t.html
 et1r19bpn8o.html
+figures/Kennewick Man
+rdepm4uc0ig.html
 0ihi59.html
 figures/picture
 8muqt4g.html
