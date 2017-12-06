@@ -16,5 +16,4 @@ figures/picture
 8muqt4g.html
 61mrr.html
 h49879g.html
-retk9qo.html
 m0eocjatjc.html
