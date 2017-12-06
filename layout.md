@@ -15,6 +15,7 @@ et1r19bpn8o.html
 figures/picture
 8muqt4g.html
 2v3smkodoe.html
+figures/thumbnail_juliann1
 r7qnhd9u4u8.html
 pjvsvop03sg.html
 61mrr.html
