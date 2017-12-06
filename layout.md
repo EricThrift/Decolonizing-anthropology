@@ -20,5 +20,4 @@ n2vjd7g.html
 2v3smkodoe.html
 figures/thumbnail_juliann1
 r7qnhd9u4u8.html
-61mrr.html
 m0eocjatjc.html
