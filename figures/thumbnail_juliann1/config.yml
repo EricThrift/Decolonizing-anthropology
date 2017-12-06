@@ -1,7 +1,7 @@
 ---
 version: 2
 multicolumn: false
-web-width: 200
+web-width: 500px
 align: center
 float: h!
 grid:
@@ -17,4 +17,3 @@ grid:
     - 1
     - 1
     url: "/users/80989/articles/200071/master/file/figures/thumbnail_juliann1/thumbnail_juliann1.png"
-    folder_url: "/users/80989/articles/200071/master/folder/figures/thumbnail_juliann1"
