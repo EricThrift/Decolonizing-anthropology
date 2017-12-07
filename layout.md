@@ -13,7 +13,6 @@ mep3l3arve.html
 et1r19bpn8o.html
 figures/Kennewick Man
 rdepm4uc0ig.html
-d6e1er8.html
 0ihi59.html
 figures/picture
 8muqt4g.html
